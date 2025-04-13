@@ -1,0 +1,39 @@
+.font-press {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 50;
+    font-style: normal;
+  }
+  
+  .font-jaini {
+    font-family: "Jaini", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .font-regular {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .navbar {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+  }
+
+  .roboto-slab-uniquifier {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 50;
+    font-style: normal;
+  }
+
+  .big-shoulders-regular {
+    font-family: "Big Shoulders", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
